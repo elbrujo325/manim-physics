@@ -1,0 +1,9 @@
+# Manim
+__pycache__/
+media/
+*.mp4
+*.gif
+*.png
+*.wav
+*.ogg
+.DS_Store
