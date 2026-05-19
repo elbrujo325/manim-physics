@@ -11,7 +11,6 @@ Educational physics animations built with [Manim](https://www.manim.community/) 
 | [**Electric Potential**](./potencial_electrico/) | Scalar potential visualization with equipotential surfaces | V = kQ/r, gradient → E, work-energy |
 | [**Electric Dipole**](./dipolo_electrico/) | Dipole field and potential with 3D visualization | p = qd, far-field approximation, torque |
 | [**Electrostatic Energy**](./energia_electrostatica/) | Energy stored in charge distributions and capacitors | U = ½ε₀∫E²dV, capacitance |
-| [**Electric Current**](./corriente_electrica/) | Current flow, resistance, and Ohm's law with animated charges | J = σE, drift velocity, circuits |
 
 ## ⭐ Featured
 
